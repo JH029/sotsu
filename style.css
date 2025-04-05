@@ -4,7 +4,18 @@ h1 {
 }
 
 button {
+    /* 직사각형 1 */
+    position: absolute;
+    width: 340px;
+    height: 120px;
+    left: 790px;
+    right: 790px;
+    top: 480px;
+    bottom: 480px;
     font-size: 30px;
+    border-radius: 64px;
+    box-shadow: 0px 0px 50px 12px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(134.15deg, rgb(100, 153, 255) 0%,rgb(0, 64, 186) 102.887%);
 }
 
 a {
